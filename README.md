@@ -10,3 +10,5 @@ Although the test accuracies of all three models are the same, the K-NN model ha
 
 ![image](https://user-images.githubusercontent.com/74529160/232306721-a2948932-3b16-4ef7-8713-720abcf1909f.png)
 
+## Getting Started
+To get started, you will need to have a Google account to access the Colab platform. Once you have access, you can open the picture_slicing.ipynb notebook file in Colab and execute the code cells.
